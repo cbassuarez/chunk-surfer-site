@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "file": "app-icon-van.png",
+      "width": 1024,
+      "height": 1024,
+      "bytes": 384841,
+      "sha256": "7bcb13b248948c3f8ef590fd67d3d4354771d9eebba754995a5c1830b517f041",
+      "copiedOn": "2026-11-09",
+      "kind": "Existing Chunk Surfer application van icon, copied unchanged.",
+      "usage": [
+        "logo",
+        "favicon"
+      ]
+    }
+  ],
+  "scope": "Existing game brand artwork; no recoloring, cropping, resizing, or image editing was performed."
+}

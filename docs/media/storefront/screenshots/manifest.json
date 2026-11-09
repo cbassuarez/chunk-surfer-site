@@ -1,23 +1,32 @@
 {
   "screenshots": [
     {
-      "file": "arrival-2026-11-08.png",
+      "file": "source-wide-2026-11-08.png",
       "capturedOn": "2026-11-08",
-      "width": 1440,
-      "height": 900,
-      "bytes": 1396884,
-      "sha256": "3639f81e5a2dcc40f3560fe4ac9f8723dce4e245cbc3e18dc051eeb800f23c58",
-      "kind": "Unaltered gameplay capture; original HUD retained."
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1425901,
+      "sha256": "fdb255aaaf56acffb7c5638cc5ada9e6108d1b8661aeaba4aab3e1b75d79d479",
+      "kind": "Unaltered development gameplay capture; original frame retained."
     },
     {
-      "file": "metronome-2026-11-09.png",
+      "file": "house-window-2026-11-09.png",
       "capturedOn": "2026-11-09",
       "width": 1280,
       "height": 800,
-      "bytes": 1530020,
-      "sha256": "f779596614b5a8c7d1232e0adeb09eac50c20d041abb1debe8ce9e31f711c6e5",
-      "kind": "Unaltered gameplay capture; original HUD retained."
+      "bytes": 1050609,
+      "sha256": "baf983a11b6d469a8f704faf6f9fe08e5aaeaa425e9d8fb8b2295f0eaf9ddfdb",
+      "kind": "Unaltered development gameplay capture; original frame retained."
+    },
+    {
+      "file": "square-2026-11-08.png",
+      "capturedOn": "2026-11-08",
+      "width": 1280,
+      "height": 800,
+      "bytes": 1097966,
+      "sha256": "3451989912ab868ded34143adeec4981120a8fdb66398922647ea087dd14f5be",
+      "kind": "Unaltered development gameplay capture; original frame retained."
     }
   ],
-  "scope": "Presentation captures of the game at their recorded date. These files do not certify an immutable release build."
+  "scope": "Presentation images copied unchanged from development gameplay captures at their recorded dates. They do not certify an immutable packaged release, an uninterrupted playthrough, or every possible game state."
 }
