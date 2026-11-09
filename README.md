@@ -19,3 +19,7 @@ The game is still distributed from itch.io. This repository keeps the page and p
 ## Selected promotional images
 
 `docs/media/storefront/promo/` holds the selected social image and 21:9 wide cover with image hashes. The social composition uses the Albion van, VFD title and Ellery exterior; the wide composition uses Source architecture. Both were composited from existing game captures and assets without generative imagery. Readout and installation prose use the native VFD font; phone-width text panels expand with their copy.
+
+## Storefront copy
+
+The current review copy leads with Ellery’s night and people, uses the recording commission as the point of entry, and shows the journey’s breadth without explaining its causes. `itch/short-description.txt` contains the project tagline. Captions expand to keep the complete VFD prose visible on desktop as well as smaller screens. Reader validation is separate from source and layout checks.
