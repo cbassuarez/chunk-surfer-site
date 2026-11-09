@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "project": "Chunk Surfer storefront assets",
+  "assetCount": 39,
+  "assetBytes": 729028,
+  "licenseCount": 2,
+  "assets": [
+    {
+      "path": "docs/media/storefront/ChunkLCD.woff",
+      "bytes": 3260,
+      "sha256": "034763cedb50dace44f84c886c24d54a653a53b42ae06e98caee1026c68f932b",
+      "kind": "font"
+    },
+    {
+      "path": "docs/media/storefront/ChunkVFD.woff",
+      "bytes": 3740,
+      "sha256": "c62a8515deb358f493ad1cdbc785bf7cae93a487dd26b2eeb2f2c906d5ee741c",
+      "kind": "font"
+    },
+    {
+      "path": "docs/media/storefront/NimbusSans-Bold.otf",
+      "bytes": 83264,
+      "sha256": "7f33328e6b4d4cd21b45fa625791928c9407dc702db6780e56b09ca9a3ecaa67",
+      "kind": "font"
+    },
+    {
+      "path": "docs/media/storefront/NimbusSans-Regular.otf",
+      "bytes": 82264,
+      "sha256": "7c25be4d78155523080ab85b10277150657ff7dabbcad7037bdd536c9b6d0d08",
+      "kind": "font"
+    },
+    {
+      "path": "docs/media/storefront/annunciator.webp",
+      "bytes": 936,
+      "sha256": "6565aab4369a57094aed621d4e8ef87929f3e56c34571fd43141c21f7e8a65c1",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-amber-pressed.webp",
+      "bytes": 1654,
+      "sha256": "611894c9062f9cdc8adf29fbb0541f89507d84a0bbb9f7c1fd722826c3dff205",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-amber.webp",
+      "bytes": 2010,
+      "sha256": "0f662ccbae7ee54e9a347a80d102ca5e6b05272fc405ec485094770ac52cce00",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-red-pressed.webp",
+      "bytes": 1626,
+      "sha256": "0a5ad56c21394ad7afc6b67977b1d159d6d875f3d8851442a0543d874e74234c",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-red.webp",
+      "bytes": 1984,
+      "sha256": "04a74d1b0bf3263e383a0891fa6860402c70fe1ecc63b7f3df82dc4e30a85697",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-white-pressed.webp",
+      "bytes": 1602,
+      "sha256": "e15ed0f826308086874f03314ceb635956ef414872ddbf9e6b16cfb91a7a11f4",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/cap-white.webp",
+      "bytes": 1816,
+      "sha256": "255216c83d347ed4454454de16531d76280bbddd680f198641b807983e117b7e",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/glass-cover.webp",
+      "bytes": 51862,
+      "sha256": "8606692d946bd7f32c449bc92e498f2a043ffd13917a0fab5d6aa11b7fdb6b9d",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/glass.webp",
+      "bytes": 8326,
+      "sha256": "f4adb8d3bb8dd6403e3f1683fe7c00c3f7e40c14c6a0c5349e68e2682316cc4e",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-cap-amber-lit-640c643105ca.webp",
+      "bytes": 39254,
+      "sha256": "640c643105cabf581ff9674b9c9938bdacd146e3578cb3f7a4dbd2f90dcff1a5",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-cap-amber-rest-396017642619.webp",
+      "bytes": 34162,
+      "sha256": "39601764261976b88bd49c6295537f835b444e1210e4de640009668497a9b1f7",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-cap-white-lit-045c6a8602a5.webp",
+      "bytes": 13714,
+      "sha256": "045c6a8602a5d9661eef1c0ee6aa91cd5910dd992a5f70a2d66697f7d7ccba10",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-cap-white-rest-449dc10841e8.webp",
+      "bytes": 10500,
+      "sha256": "449dc10841e8009d1e8734fbbfee6d289514ed4204977972013abdf1964a1fd4",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-all-lit-9021cecdd9e0.webp",
+      "bytes": 32160,
+      "sha256": "9021cecdd9e0f512c55ee3886b66d930c408ccf90b8f9293b9ce2298af2271a3",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-all-rest-ac29897c94d2.webp",
+      "bytes": 31150,
+      "sha256": "ac29897c94d2c520ea27a8bf2fc7cc44029d6335339cd92de8773ca2873424a6",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-disclosures-lit-e7e70c5a0081.webp",
+      "bytes": 32290,
+      "sha256": "e7e70c5a00811cdfefeddae8b804a8298f6486220ff281d988296e805e665de6",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-disclosures-rest-b20af08ca3e9.webp",
+      "bytes": 31192,
+      "sha256": "b20af08ca3e9487500fc48d964b8779c0447e20632a43af7305c7a091606ee47",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-returns-lit-6f6d78d877d3.webp",
+      "bytes": 32146,
+      "sha256": "6f6d78d877d381f5edd7493f7882684e6c806943ba71854ed7c0f7e9c6eab986",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-returns-rest-2d7cf75de1a2.webp",
+      "bytes": 31126,
+      "sha256": "2d7cf75de1a2f8e73c12a38592dcf2e5700e3cd3d065485dbf71dadb46ef0f67",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-work-lit-7ba4fe130cc0.webp",
+      "bytes": 32340,
+      "sha256": "7ba4fe130cc0f4cb6fd40a76e0239ad0a264833e6562de8b9a3b971e36461d10",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/motion-resin-work-rest-ef14f7a047dd.webp",
+      "bytes": 31434,
+      "sha256": "ef14f7a047dd542016ca3d6a5e4fdc1ab1603c215ac9f4f2edfc535eb06bd6a9",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-all-pressed-481040d4f82e.webp",
+      "bytes": 6866,
+      "sha256": "481040d4f82e88ee0797f294a60103dd205ee696cc7fada1954f8ea53c397e6a",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-all-rest-236471f14d37.webp",
+      "bytes": 6802,
+      "sha256": "236471f14d37763c41da9fd8f4a4d739eecc6c60cb25a7e20bfb187988d35ad4",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-all-selected-6cfa6d9497bf.webp",
+      "bytes": 6992,
+      "sha256": "6cfa6d9497bf9b900d7c90b579a7080d2daa209502b291a3190899b56c762c83",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-disclosures-pressed-4e02f8d25893.webp",
+      "bytes": 6956,
+      "sha256": "4e02f8d258939b6df621fc6ded20efe2e84cb0a602113303f1e005301beeade4",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-disclosures-rest-286a6c86b4d4.webp",
+      "bytes": 6860,
+      "sha256": "286a6c86b4d42edab4890b664cfb719000b721bca2556138362b4e2f050cd922",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-disclosures-selected-a94b3b05797a.webp",
+      "bytes": 7076,
+      "sha256": "a94b3b05797a9594ef1be117d184c111214d66e75443d8f48f5497f3e566e56d",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-returns-pressed-06eb60ec3bf2.webp",
+      "bytes": 6900,
+      "sha256": "06eb60ec3bf2bb0433d92225275a3c0070e369b973ffd60cfd6cce6061939a2d",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-returns-rest-7135de55a300.webp",
+      "bytes": 6706,
+      "sha256": "7135de55a300936e76cfe98fe3747c238255e3f56a2492c7c155c62eb800fcd3",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-returns-selected-89f63dc76f4a.webp",
+      "bytes": 6942,
+      "sha256": "89f63dc76f4ad6d2434156e4e5ce7121a34e5fac5e7d03ed814c28146254d85c",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-work-pressed-f33103216ae8.webp",
+      "bytes": 6988,
+      "sha256": "f33103216ae86396d2a4a8974986a91c3062cf120fb1c4867ab4824979fbe04c",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-work-rest-a5c345ed0985.webp",
+      "bytes": 6844,
+      "sha256": "a5c345ed0985b3194f3f17311cddbcb7823b69505d4f3899d9e825da20e95823",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/kiosk-assets-v1/resin-work-selected-dea707c3fcce.webp",
+      "bytes": 6994,
+      "sha256": "dea707c3fcceed2b3b29ee7202b97024a73726033b7a454fe596fc09655bed53",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/lcd.webp",
+      "bytes": 2568,
+      "sha256": "838fa0b6f457741befcc50ac765791ce68c9f91b8df9fb8792bb1da0194a7f28",
+      "kind": "image"
+    },
+    {
+      "path": "docs/media/storefront/plate.webp",
+      "bytes": 47722,
+      "sha256": "51ace064f38848bf68dd7be6d99791e09576bb36f1d34878c151c7a48ddc23da",
+      "kind": "image"
+    }
+  ],
+  "licenses": [
+    {
+      "path": "docs/media/storefront/LICENSE.urw-base35.txt",
+      "bytes": 440,
+      "sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f"
+    },
+    {
+      "path": "docs/media/storefront/COPYING.urw-base35.txt",
+      "bytes": 34520,
+      "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+    }
+  ]
+}
