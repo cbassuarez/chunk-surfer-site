@@ -1,0 +1,24 @@
+{
+  "selectedOn": "2026-11-09",
+  "method": "Deterministic Pillow compositing only; no generative imagery, invented scenery or fake UI telemetry.",
+  "social": {
+    "file": "b-albion-selected-social-1200x630.png",
+    "dimensions": [
+      1200,
+      630
+    ],
+    "sha256": "597bbe83461d8ac05228877883de35a86ccc5efbdf6bf8ae11817612ff323b4e",
+    "description": "B: existing van, native VFD title, actual Ellery school exterior; no Source background.",
+    "backgroundCaptureSha256": "7258e25067506d7aa312f16b079f583e0e3571508b26099f1625f810571c0883",
+    "itchOriginal": "https://img.itch.zone/aW1nLzMyMDI4NDE1LnBuZw==/original/yr3UIb.png"
+  },
+  "wide": {
+    "file": "c-source-selected-wide-1680x720.png",
+    "dimensions": [
+      1680,
+      720
+    ],
+    "sha256": "7d5a9dfee2f05fbf19aa3eb15db0defdc2113ae982aa2d3e9baa5963a56d0656",
+    "description": "C: selected Source architecture composition, unchanged from reviewed option."
+  }
+}

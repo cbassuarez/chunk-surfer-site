@@ -15,3 +15,7 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and the bundled font notice
 `itch/description.html`, `itch/theme.css`, and `itch/install-instructions.html` contain the presentation markup, custom CSS, and installation copy. Published navigation uses full same-page URLs because itch.io removes fragment-only hrefs. Local review copies use fragments so they remain in the preview. Display textures and fonts are pinned to an immutable asset commit; gameplay screenshot metadata is recorded alongside the screenshots.
 
 The game is still distributed from itch.io. This repository keeps the page and public support links independent of the game source repository.
+
+## Selected promotional images
+
+`docs/media/storefront/promo/` holds the selected social image and 21:9 wide cover with image hashes. The social composition uses the Albion van, VFD title and Ellery exterior; the wide composition uses Source architecture. Both were composited from existing game captures and assets without generative imagery. Readout and installation prose use the native VFD font; phone-width text panels expand with their copy.

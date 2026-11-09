@@ -2189,3 +2189,62 @@
   }
 }
 /* END MOBILE APERTURE AND CONTENT REPAIR */
+
+/* VFD PROSE ALIGNMENT — 2026-11-09
+ * The glass carries the same display ROM as the game. Etched legends, controls
+ * and LCD modules retain their own materials and type. Caption apertures keep
+ * their existing heights and vertical scrolling; prose is allowed to wrap.
+ */
+#wrapper .custom-showroom .custom-readout p:not(.custom-eyebrow,.custom-counter,.custom-lcd,.custom-printed-label,.custom-printed-note),
+#wrapper #instructions + .formatted_description > p:not(.custom-index,.custom-lede,.custom-lcd,.custom-signoff),
+#wrapper #instructions + .formatted_description .custom-steps > li,
+#wrapper #instructions + .formatted_description .custom-spec .custom-value,
+#wrapper #instructions + .formatted_description td {
+  font:400 14px/1.55 "ChunkVFD",ui-monospace,monospace;
+  font-synthesis:none;letter-spacing:0;word-break:normal;overflow-wrap:break-word;
+}
+#wrapper .custom-showroom .custom-readout p:not(.custom-eyebrow,.custom-counter,.custom-lcd,.custom-printed-label,.custom-printed-note) {
+  color:#edc27b;
+}
+#wrapper #instructions + .formatted_description .custom-vfd {
+  font:400 clamp(19px,2.2vw,25px)/1.3 "ChunkVFD",ui-monospace,monospace;
+  font-synthesis:none;letter-spacing:0;color:var(--cs-amber,#f2a81e);
+  overflow-wrap:break-word;
+}
+#wrapper #instructions + .formatted_description .custom-vfd strong {
+  font:inherit;
+}
+#wrapper #instructions + .formatted_description .custom-lcd {
+  font:400 14px/1.55 var(--cs-lcd-display,"ChunkLCD",monospace);
+  letter-spacing:0;
+}
+#wrapper #instructions + .formatted_description :is(.custom-index,.custom-label,.custom-signoff) {
+  font-family:var(--cs-print,Arial,sans-serif);
+}
+#wrapper #instructions + .formatted_description code {
+  font-family:ui-monospace,SFMono-Regular,Consolas,monospace;
+  white-space:normal;overflow-wrap:anywhere;
+}
+@media screen and (max-width:760px) {
+  #wrapper .custom-showroom .custom-readout p:not(.custom-eyebrow,.custom-counter,.custom-lcd,.custom-printed-label,.custom-printed-note),
+  #wrapper #instructions + .formatted_description > p:not(.custom-index,.custom-lede,.custom-lcd,.custom-signoff),
+  #wrapper #instructions + .formatted_description .custom-steps > li,
+  #wrapper #instructions + .formatted_description .custom-spec .custom-value,
+  #wrapper #instructions + .formatted_description td {
+    font-size:15px;line-height:1.55;
+  }
+}
+/* END VFD PROSE ALIGNMENT */
+
+/* Let phone-width VFD copy read in the page's normal scroll flow.
+ * Overlaid scene captions still share their category's largest natural height. */
+@media screen and (max-width:760px) {
+  #wrapper .custom-showroom { --caption-height:auto; }
+  #wrapper .custom-showroom .custom-slide { grid-template-rows:auto minmax(min-content,1fr); }
+  #wrapper .custom-showroom .custom-slide > .custom-readout {
+    height:auto;overflow:visible;
+  }
+  #wrapper .custom-showroom .custom-slide .custom-readout-content {
+    height:auto;overflow:visible;scrollbar-gutter:auto;
+  }
+}
