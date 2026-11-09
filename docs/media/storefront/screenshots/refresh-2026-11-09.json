@@ -1,0 +1,21 @@
+{
+  "preparedOn": "2026-11-09",
+  "scope": "Selected storefront screenshot refresh. Production-renderer imagery is retained; capture setup and any ordinary cropping are disclosed per image.",
+  "screenshots": [
+    {
+      "file": "source-ii-ophanim-seated-2026-11-09.png",
+      "capturedOn": "2026-11-09",
+      "scene": "Source II, seated, with the Ophanim horizon",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 2924645,
+      "sha256": "3ab58e6fc55906912878a4aa43ec9ab2c873db1b872b3c49522c4785719c4d1c",
+      "method": "Unaltered PNG copied byte for byte from an actual production-renderer capture.",
+      "provenance": "Developer-staged seated view in the development game. Original rendered composition retained.",
+      "limits": [
+        "Does not certify an immutable packaged release or an uninterrupted player route.",
+        "No cropping, resizing, recoloring, retouching, compositing or image generation was applied."
+      ]
+    }
+  ]
+}
