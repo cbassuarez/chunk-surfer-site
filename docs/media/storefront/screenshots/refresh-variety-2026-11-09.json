@@ -1,0 +1,49 @@
+{
+  "preparedOn": "2026-11-09",
+  "screenshots": [
+    {
+      "file": "tipoff-current-2026-11-09.png",
+      "capturedOn": "2026-11-09",
+      "scene": "Tip-off character",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1648767,
+      "sha256": "5ce84fa4c693e098c72d1b5a7a8193621ad017d6391fb71a59c267643885427f",
+      "method": "Unaltered PNG from the game development renderer.",
+      "provenance": "Developer-staged view in the development game, not proof of packaged release or uninterrupted player progression."
+    },
+    {
+      "file": "glasshouse-current-2026-11-09.png",
+      "capturedOn": "2026-11-09",
+      "scene": "Glasshouse",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1251076,
+      "sha256": "fccf4c3a9cc9b971fa63cc5eb18da9de5bdb7843ad54f65baa8a80694a129702",
+      "method": "Unaltered PNG from the game development renderer.",
+      "provenance": "Developer-staged view in the development game, not proof of packaged release or uninterrupted player progression."
+    },
+    {
+      "file": "concert-hall-current-2026-11-09.png",
+      "capturedOn": "2026-11-09",
+      "scene": "Concert hall lower balcony",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1623867,
+      "sha256": "382d44c24640f576798d3b6d8edff0de426c68c8ec4c9166945d4b72cc73b3d8",
+      "method": "Unaltered PNG from the game development renderer.",
+      "provenance": "Developer-staged view in the development game, not proof of packaged release or uninterrupted player progression."
+    },
+    {
+      "file": "chapel-apparition-current-2026-11-09.png",
+      "capturedOn": "2026-11-09",
+      "scene": "Chapel ceiling apparition",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 507646,
+      "sha256": "8ef9814fff724ed8d956a1deb99329f22d8d3237639055be09e5b07d62c10d3d",
+      "method": "Unaltered PNG from the game development renderer.",
+      "provenance": "Developer-staged view in the development game, not proof of packaged release or uninterrupted player progression."
+    }
+  ]
+}
